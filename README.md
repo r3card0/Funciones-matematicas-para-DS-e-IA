@@ -1,2 +1,13 @@
-# Funciones-matematicas-para-DS-e-IA
-Funciones matemáticas para Data Science e Inteligencia Artificial
+# Funciones matemáticas para Data Science e Inteligencia Artificial
+
+
+## Installation
+```
+pip install pandas matplotlip
+```
+
+## Roadmap
+
+- [ ] Funciones algebráicas
+- [ ] Funciones trascendentes
+- [ ] Funciones seccionadas
