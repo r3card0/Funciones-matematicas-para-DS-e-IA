@@ -42,3 +42,16 @@ Por medio de una gráfica. Parábola
 $ y = f(x) = x^2 $
 
 # Las funciones sirven para modelar nuestra realidad
+
+# Variables
+![Variables](/img/variables.png)
+
+Las **variables cuantitativas** se usan en las funciones para modelar 
+
+|Tipo | Variable | descripción |
+|-----|----------|-------------|
+|Cuantitativa| Discreta | Números enteros. Son finitas. Por ejemplo una persona puede tener 0, 1, 2 o 3 amigos, pero nunca 4.5|
+|Cuantitativa| Continua | Números decimales. Pueden ser infinitos al tomar cualquier valor dentro de los números reales en un rango establecido. Por ejemplo, medir la estatura de una persona, 1.80m, 1.56m, etc|
+|Cualitativa | Nominal | Se les asigna una cualidad. Por ejemplo, el carro es **azul** |
+|Cualitativa | Ordinaria | La que está ordenada, por ejemplo, la altura de un objeto se puede clasificar como alto, medio o bajo|
+|Cualitativa | Binaria | Son aquellas que toman dos valores y son usadas para representar estados o condiciones. Falso, verdadero, esl objeto está frío o caliente, uno o cero, etc|
