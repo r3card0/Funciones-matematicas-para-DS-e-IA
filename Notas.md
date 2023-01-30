@@ -39,7 +39,7 @@ Teniendo una tabla de valores. Variable independiente, columna 1. Variable depen
 Por medio de una gráfica. Parábola
 
 ### Algebráica
-$ y = f(x) = x^2 $
+$y = f(x) = x^2 $
 
 # Las funciones sirven para modelar nuestra realidad
 
