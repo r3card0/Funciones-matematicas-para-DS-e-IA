@@ -66,8 +66,15 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 
 | simbolo | Tipo | Significa | Lectura | Ejemplo |
 |---------|------|-----------|---------|---------|
-| = | igualdad | *igual que* |2 es *igual que* uno mas uno | $2 = 1+1$ |
-| > | relacion | *mayo que* | 5 es *mayor que* 3 | $5 > 3$ |
-| < | relacion | *menor que* | 4 es *menor que* 7 | $4 < 7$ |
-| ≥ | igualdad y relacion | *mayor o igual | Usado para establecer rangos. ```x``` es *mayor o igual* que ```y``` | $x ≥ y$ ($7 ≥ 2$, $7 ≥ 7$)|
-| ≤ | igualdad y relacion | *menor o igual que* | ```x``` es *menor o igual* que ```y``` | $x ≥ y$ ($15 ≤ 31$, $15 ≤ 15$)|
+| $=$ | igualdad | *igual que* |2 es *igual que* uno mas uno | $2 = 1+1$ |
+| $>$ | relacion | *mayo que* | 5 es *mayor que* 3 | $5 > 3$ |
+| $<$ | relacion | *menor que* | 4 es *menor que* 7 | $4 < 7$ |
+| $≥$ | igualdad y relacion | *mayor o igual* | Usado para establecer rangos. ```x``` es *mayor o igual* que ```y``` | $x ≥ y$ ( $7 ≥ 2$ , $7 ≥ 7$ )|
+| $≤$ | igualdad y relacion | *menor o igual que* | ```x``` es *menor o igual* que ```y``` | $x ≥ y$ ( $15 ≤ 31$ , $15 ≤ 15$ )|
+| $≠$ | igualdad | *diferente de* |4 es *diferente de* 3 | $4 ≠ 3$ |
+| $≈$ | relacion | *aproximado de* | 5 es *aproximado de* 4.999 | $5 ≈ 4.999$|
+| $>>$ | relacion | *mayor mayor que* 😜 | 100000 es *mayor mayor que* 1 | $100000 >> 1$ |
+| $<<$ | relacion | *menor menor que* 😜 | 1/10000 es *menor menor que* 1000 | $1/10000 << 10000$ |
+| $∞$ | relacion | numero muy grande | puede ser positivo $∞+$ | o puder ser negativo $∞-$ |
+| $∑$ | acumulativo | *sumatoria de* | Conocido como *sigma* y tiene un límite inferior $n=0$ , y tiene un límite superior $3$ | $$  \sum_{n=0}^3   $$ o $$  n=0+1+2+3  $$ |
+| $∏$ | acumulativo | *producto de* | Tiene un límite inferior y un límite superior | $$  \prod_{n=1}^{n=4}   $$ o $$  n=0*1*2*3  $$ |
