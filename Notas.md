@@ -55,3 +55,19 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 |Cualitativa | Nominal | Se les asigna una cualidad. Por ejemplo, el carro es **azul** |
 |Cualitativa | Ordinaria | La que está ordenada, por ejemplo, la altura de un objeto se puede clasificar como alto, medio o bajo|
 |Cualitativa | Binaria | Son aquellas que toman dos valores y son usadas para representar estados o condiciones. Falso, verdadero, esl objeto está frío o caliente, uno o cero, etc|
+
+# Dominio y Rango de una función
+
+- [ ] El **dominio** son los valores que toma ```x```
+- [ ] El **rango** son *todos* los resultados que nos puede dar una función
+![Dominio-Rango-Funcion](/img/cafe_dominio_rango_funcion.png)
+
+# Leer símbolos matemáticos
+
+| simbolo | Tipo | Significa | Lectura | Ejemplo |
+|---------|------|-----------|---------|---------|
+| = | igualdad | *igual que* |2 es *igual que* uno mas uno | 2 = 1+1 |
+| > | relacion | *mayo que* | 5 es *mayor que* 3 | 5 > 3 |
+| < | relacion | *menor que* | 4 es *menor que* 7 | 4 < 7 |
+| ≥ | igualdad y relacion | *mayor o igual | Usado para establecer rangos. ```x``` es *mayor o igual* que ```y``` | x ≥ y (7 ≥ 2, 7 ≥ 7)|
+| ≤ | igualdad y relacion | *menor o igual que* | ```x``` es *menor o igual* que ```y``` | x ≥ y (15 ≤ 31, 15 ≤ 15)|
