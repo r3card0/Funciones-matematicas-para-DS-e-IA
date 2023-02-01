@@ -77,4 +77,6 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 | $<<$ | relacion | *menor menor que* 😜 | 1/10000 es *menor menor que* 1000 | $1/10000 << 10000$ |
 | $∞$ | relacion | numero muy grande | puede ser positivo $∞+$ | o puder ser negativo $∞-$ |
 | $∑$ | acumulativo | *sumatoria de* | Conocido como *sigma* y tiene un límite inferior $n=0$ , y tiene un límite superior $3$ | $$  \sum_{n=0}^3   $$ |
-| $∏$ | acumulativo | *producto de* | Tiene un límite inferior y un límite superior | $$ \prod_{n=1}^{n=4} $$ |
+| $∏$ | acumulativo | *producto de* | Tiene un límite inferior y un límite superior | $$ \prod_{n=1}^{n=4} $$ | 
+
+[Funciones Matemáticas](https://upyesp.org/posts/makrdown-vscode-math-notation/#equality)
