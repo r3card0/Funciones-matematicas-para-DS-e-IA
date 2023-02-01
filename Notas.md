@@ -81,8 +81,10 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 
 # Leer símbolos matemáticos: Conjuntos
 
+![Conjunto](/img/conjuntos.png)
 * Universo Ω
 * Union $A∪B$ [Get Union Symbol ∪](https://symbolhippo.com/union-symbol/)
 * Interseccion $A∩B$. [Get intersection Symbol ∩](https://symbolhippo.com/intersection-symbol/)
+![Intersection](/img/conjuntos_intersection.png)
 * Un elemento ```a```pertenece al conjunto ```A```: $a\in A$ 
 * Un elemento ```b```NO pertenece al conjunto ```A```: $b ⊄ A$ 
