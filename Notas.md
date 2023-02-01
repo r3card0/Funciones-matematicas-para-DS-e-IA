@@ -62,7 +62,7 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 - [ ] El **rango** son *todos* los resultados que nos puede dar una función
 ![Dominio-Rango-Funcion](/img/cafe_dominio_rango_funcion.png)
 
-# Leer símbolos matemáticos
+# Leer símbolos matemáticos: Simbolos
 
 | simbolo | Tipo | Significa | Lectura | Ejemplo |
 |---------|------|-----------|---------|---------|
@@ -78,3 +78,11 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 | $∞$ | relacion | numero muy grande | puede ser positivo $∞+$ | o puder ser negativo $∞-$ |
 | $∑$ | acumulativo | *sumatoria de* | Conocido como *sigma* y tiene un límite inferior $n=0$ , y tiene un límite superior $3$ | $$  \sum_{n=0}^3   $$ |
 | $∏$ | acumulativo | *producto de* | Tiene un límite inferior y un límite superior | $$ \prod_{n=1}^{n=4} $$ |
+
+# Leer símbolos matemáticos: Conjuntos
+
+* Universo Ω
+* Union $A∪B$ [Get Union Symbol ∪](https://symbolhippo.com/union-symbol/)
+* Interseccion $A∩B$. [Get intersection Symbol ∩](https://symbolhippo.com/intersection-symbol/)
+* Un elemento ```a```pertenece al conjunto ```A```: $a\in A$ 
+* Un elemento ```b```NO pertenece al conjunto ```A```: $b ⊄ A$ 
