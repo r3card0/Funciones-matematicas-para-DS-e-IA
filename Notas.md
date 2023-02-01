@@ -75,6 +75,14 @@ Las **variables cuantitativas** se usan en las funciones para modelar
 | $≈$ | relacion | *aproximado de* | 5 es *aproximado de* 4.999 | $5 ≈ 4.999$|
 | $>>$ | relacion | *mayor mayor que* 😜 | 100000 es *mayor mayor que* 1 | $100000 >> 1$ |
 | $<<$ | relacion | *menor menor que* 😜 | 1/10000 es *menor menor que* 1000 | $1/10000 << 10000$ |
-| $∞$ | relacion | numero muy grande | puede ser positivo $∞+$ | o puder ser negativo $∞-$ |
+| $∞$ | relacion | numero muy grande | puede ser positivo $∞+$ | o puede ser negativo $∞-$ |
 | $∑$ | acumulativo | *sumatoria de* | Conocido como *sigma* y tiene un límite inferior $n=0$ , y tiene un límite superior $3$ | $$  \sum_{n=0}^3   $$ |
 | $∏$ | acumulativo | *producto de* | Tiene un límite inferior y un límite superior | $$ \prod_{n=1}^{n=4} $$ |
+
+# Leer símbolos matemáticos: Conjuntos
+
+* Universo Ω
+* Union $A∪B$ [Get Union Symbol ∪](https://symbolhippo.com/union-symbol/)
+* Interseccion $A∩B$. [Get intersection Symbol ∩](https://symbolhippo.com/intersection-symbol/)
+* Un elemento ```a```pertenece al conjunto ```A```: $a\in A$ 
+* Un elemento ```b```NO pertenece al conjunto ```A```: $b ⊄ A$ 
