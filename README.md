@@ -11,3 +11,4 @@ pip install pandas matplotlip
 - [ ] Funciones algebráicas
 - [ ] Funciones trascendentes
 - [ ] Funciones seccionadas
+[Check this repo](https://github.com/r3card0/math_functions)
